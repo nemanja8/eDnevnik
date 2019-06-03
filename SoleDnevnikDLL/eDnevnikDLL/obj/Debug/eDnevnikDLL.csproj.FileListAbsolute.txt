@@ -1,0 +1,26 @@
+C:\Users\Obuka\Documents\GitTest\eDnevnik\SoleDnevnikDLL\eDnevnikDLL\obj\Debug\eDnevnikDLL.csprojResolveAssemblyReference.cache
+C:\Users\Obuka\Documents\GitTest\eDnevnik\SoleDnevnikDLL\eDnevnikDLL\bin\Debug\eDnevnikDLL.dll
+C:\Users\Obuka\Documents\GitTest\eDnevnik\SoleDnevnikDLL\eDnevnikDLL\bin\Debug\eDnevnikDLL.pdb
+C:\Users\Obuka\Documents\GitTest\eDnevnik\SoleDnevnikDLL\eDnevnikDLL\obj\Debug\eDnevnikDLL.dll
+C:\Users\Obuka\Documents\GitTest\eDnevnik\SoleDnevnikDLL\eDnevnikDLL\obj\Debug\eDnevnikDLL.pdb
+C:\Users\Obuka\Documents\GitOpet\eDnevnik\SoleDnevnikDLL\eDnevnikDLL\bin\Debug\eDnevnikDLL.dll
+C:\Users\Obuka\Documents\GitOpet\eDnevnik\SoleDnevnikDLL\eDnevnikDLL\bin\Debug\eDnevnikDLL.pdb
+C:\Users\Obuka\Documents\GitOpet\eDnevnik\SoleDnevnikDLL\eDnevnikDLL\obj\Debug\eDnevnikDLL.csprojResolveAssemblyReference.cache
+C:\Users\Obuka\Documents\GitOpet\eDnevnik\SoleDnevnikDLL\eDnevnikDLL\obj\Debug\eDnevnikDLL.dll
+C:\Users\Obuka\Documents\GitOpet\eDnevnik\SoleDnevnikDLL\eDnevnikDLL\obj\Debug\eDnevnikDLL.pdb
+C:\Jelena - eDnevnik\Github\eDnevnik\SoleDnevnikDLL\eDnevnikDLL\bin\Debug\eDnevnikDLL.dll
+C:\Jelena - eDnevnik\Github\eDnevnik\SoleDnevnikDLL\eDnevnikDLL\bin\Debug\eDnevnikDLL.pdb
+C:\Jelena - eDnevnik\Github\eDnevnik\SoleDnevnikDLL\eDnevnikDLL\obj\Debug\eDnevnikDLL.csprojResolveAssemblyReference.cache
+C:\Jelena - eDnevnik\Github\eDnevnik\SoleDnevnikDLL\eDnevnikDLL\obj\Debug\eDnevnikDLL.dll
+C:\Jelena - eDnevnik\Github\eDnevnik\SoleDnevnikDLL\eDnevnikDLL\obj\Debug\eDnevnikDLL.pdb
+C:\Users\Obuka\Desktop\Jelena - eDnevnik\Github\eDnevnik\SoleDnevnikDLL\eDnevnikDLL\bin\Debug\eDnevnikDLL.dll
+C:\Users\Obuka\Desktop\Jelena - eDnevnik\Github\eDnevnik\SoleDnevnikDLL\eDnevnikDLL\bin\Debug\eDnevnikDLL.pdb
+C:\Users\Obuka\Desktop\Jelena - eDnevnik\Github\eDnevnik\SoleDnevnikDLL\eDnevnikDLL\obj\Debug\eDnevnikDLL.dll
+C:\Users\Obuka\Desktop\Jelena - eDnevnik\Github\eDnevnik\SoleDnevnikDLL\eDnevnikDLL\obj\Debug\eDnevnikDLL.pdb
+C:\Users\Obuka\Desktop\Jelena - eDnevnik\Github\eDnevnik\SoleDnevnikDLL\eDnevnikDLL\obj\Debug\eDnevnikDLL.csprojResolveAssemblyReference.cache
+C:\Users\Nemanja\Desktop\eDnevnik praksa\eDnevnik-master\SoleDnevnikDLL\eDnevnikDLL\bin\Debug\eDnevnikDLL.dll
+C:\Users\Nemanja\Desktop\eDnevnik praksa\eDnevnik-master\SoleDnevnikDLL\eDnevnikDLL\bin\Debug\eDnevnikDLL.pdb
+C:\Users\Nemanja\Desktop\eDnevnik praksa\eDnevnik-master\SoleDnevnikDLL\eDnevnikDLL\obj\Debug\eDnevnikDLL.csprojAssemblyReference.cache
+C:\Users\Nemanja\Desktop\eDnevnik praksa\eDnevnik-master\SoleDnevnikDLL\eDnevnikDLL\obj\Debug\eDnevnikDLL.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\Desktop\eDnevnik praksa\eDnevnik-master\SoleDnevnikDLL\eDnevnikDLL\obj\Debug\eDnevnikDLL.dll
+C:\Users\Nemanja\Desktop\eDnevnik praksa\eDnevnik-master\SoleDnevnikDLL\eDnevnikDLL\obj\Debug\eDnevnikDLL.pdb

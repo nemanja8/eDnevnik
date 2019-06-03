@@ -1,0 +1,24 @@
+C:\Users\Obuka\Documents\GitTest\eDnevnik\SoleDnevnikDLL\TestDLL\bin\Debug\TestDLL.exe.config
+C:\Users\Obuka\Documents\GitTest\eDnevnik\SoleDnevnikDLL\TestDLL\bin\Debug\TestDLL.exe
+C:\Users\Obuka\Documents\GitTest\eDnevnik\SoleDnevnikDLL\TestDLL\bin\Debug\TestDLL.pdb
+C:\Users\Obuka\Documents\GitTest\eDnevnik\SoleDnevnikDLL\TestDLL\obj\Debug\TestDLL.csprojResolveAssemblyReference.cache
+C:\Users\Obuka\Documents\GitTest\eDnevnik\SoleDnevnikDLL\TestDLL\obj\Debug\TestDLL.exe
+C:\Users\Obuka\Documents\GitTest\eDnevnik\SoleDnevnikDLL\TestDLL\obj\Debug\TestDLL.pdb
+C:\Users\Obuka\Documents\GitTest\eDnevnik\SoleDnevnikDLL\TestDLL\bin\Debug\eDnevnikDLL.dll
+C:\Users\Obuka\Documents\GitTest\eDnevnik\SoleDnevnikDLL\TestDLL\bin\Debug\eDnevnikDLL.pdb
+C:\Users\Obuka\Documents\GitOpet\eDnevnik\SoleDnevnikDLL\TestDLL\bin\Debug\TestDLL.exe.config
+C:\Users\Obuka\Documents\GitOpet\eDnevnik\SoleDnevnikDLL\TestDLL\bin\Debug\TestDLL.exe
+C:\Users\Obuka\Documents\GitOpet\eDnevnik\SoleDnevnikDLL\TestDLL\bin\Debug\TestDLL.pdb
+C:\Users\Obuka\Documents\GitOpet\eDnevnik\SoleDnevnikDLL\TestDLL\bin\Debug\eDnevnikDLL.dll
+C:\Users\Obuka\Documents\GitOpet\eDnevnik\SoleDnevnikDLL\TestDLL\bin\Debug\eDnevnikDLL.pdb
+C:\Users\Obuka\Documents\GitOpet\eDnevnik\SoleDnevnikDLL\TestDLL\obj\Debug\TestDLL.csprojResolveAssemblyReference.cache
+C:\Users\Obuka\Documents\GitOpet\eDnevnik\SoleDnevnikDLL\TestDLL\obj\Debug\TestDLL.exe
+C:\Users\Obuka\Documents\GitOpet\eDnevnik\SoleDnevnikDLL\TestDLL\obj\Debug\TestDLL.pdb
+C:\Jelena - eDnevnik\Github\eDnevnik\SoleDnevnikDLL\TestDLL\bin\Debug\TestDLL.exe.config
+C:\Jelena - eDnevnik\Github\eDnevnik\SoleDnevnikDLL\TestDLL\bin\Debug\TestDLL.exe
+C:\Jelena - eDnevnik\Github\eDnevnik\SoleDnevnikDLL\TestDLL\bin\Debug\TestDLL.pdb
+C:\Jelena - eDnevnik\Github\eDnevnik\SoleDnevnikDLL\TestDLL\bin\Debug\eDnevnikDLL.dll
+C:\Jelena - eDnevnik\Github\eDnevnik\SoleDnevnikDLL\TestDLL\bin\Debug\eDnevnikDLL.pdb
+C:\Jelena - eDnevnik\Github\eDnevnik\SoleDnevnikDLL\TestDLL\obj\Debug\TestDLL.csprojResolveAssemblyReference.cache
+C:\Jelena - eDnevnik\Github\eDnevnik\SoleDnevnikDLL\TestDLL\obj\Debug\TestDLL.exe
+C:\Jelena - eDnevnik\Github\eDnevnik\SoleDnevnikDLL\TestDLL\obj\Debug\TestDLL.pdb
